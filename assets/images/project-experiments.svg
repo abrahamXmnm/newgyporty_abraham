@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Creative experiments illustration">
+  <rect width="900" height="620" fill="#f3efe8"/>
+  <rect x="118" y="108" width="208" height="252" rx="20" fill="#e9dfd4"/>
+  <rect x="357" y="198" width="210" height="210" rx="20" fill="#d7cab7"/>
+  <rect x="590" y="138" width="190" height="280" rx="18" fill="#f0e6df"/>
+  <circle cx="222" cy="228" r="64" fill="#faf7f3"/>
+  <circle cx="462" cy="292" r="73" fill="#fdfaf7"/>
+  <path d="M628 188c48 25 82 76 82 130 0 72-55 130-122 130-21 0-41-5-58-15" stroke="#d4c0a3" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <path d="M178 435c124-76 278-89 505-29" stroke="#c8b9a8" stroke-width="14" stroke-linecap="round" fill="none"/>
+</svg>

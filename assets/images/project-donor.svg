@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Blood donor connect illustration">
+  <rect width="900" height="620" fill="#f5f0ea"/>
+  <rect x="95" y="118" width="710" height="380" rx="28" fill="#f6f1ed" stroke="#d9d0c6"/>
+  <circle cx="290" cy="322" r="102" fill="#e7d3d2"/>
+  <circle cx="560" cy="255" r="120" fill="#f0e6df"/>
+  <path d="M542 167c46 0 84 38 84 84s-38 84-84 84-84-38-84-84 38-84 84-84Z" fill="#d69d9c" opacity="0.8"/>
+  <path d="M280 243c42 0 76 34 76 76s-34 76-76 76-76-34-76-76 34-76 76-76Z" fill="#c4a29a" opacity="0.9"/>
+  <path d="M187 464h514" stroke="#d2c7b9" stroke-width="12" stroke-linecap="round"/>
+  <path d="M315 205l76 52 110-88 70 54" stroke="#fffaf6" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

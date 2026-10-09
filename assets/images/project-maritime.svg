@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Maritime route illustration">
+  <defs>
+    <linearGradient id="sea" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#d9d0c5"/>
+      <stop offset="100%" stop-color="#b2a995"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="620" fill="#f3eee8"/>
+  <circle cx="210" cy="142" r="90" fill="#efe4d5"/>
+  <path d="M0 408c155-85 315-108 482-69 106 25 224 92 418 80v201H0V408Z" fill="url(#sea)"/>
+  <path d="M64 391C233 300 367 295 532 344c86 26 142 80 225 95 42 7 97 6 143-13v142H64V391Z" fill="#c9c0b2" opacity="0.8"/>
+  <path d="M194 250c125-60 260-80 374-59" stroke="#f9f5f0" stroke-width="14" stroke-linecap="round" fill="none"/>
+  <path d="M258 302c62 24 143 39 208 42" stroke="#efe7df" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <path d="M412 180c44 9 94 53 119 112" stroke="#f9f5f0" stroke-width="12" stroke-linecap="round" fill="none"/>
+  <circle cx="653" cy="212" r="34" fill="#f8f4ef"/>
+</svg>

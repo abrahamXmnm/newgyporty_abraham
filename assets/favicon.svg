@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Abraham C Martin monogram">
+  <rect width="64" height="64" rx="18" fill="#f2ece4"/>
+  <path d="M18 48V16h9.5c8.4 0 13.1 4.6 13.1 12.1 0 7.7-4.7 12.2-13.1 12.2H25V48h-7Zm11.1-7.6h2.2c4.9 0 7.5-2.6 7.5-7.2 0-4.7-2.7-7.3-7.6-7.3h-2.1v14.5Z" fill="#171612"/>
+  <path d="M36 48l11.5-32H57L45.5 48H36Z" fill="#b6a995"/>
+</svg>
